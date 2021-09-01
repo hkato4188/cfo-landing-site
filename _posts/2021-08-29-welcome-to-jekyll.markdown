@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Our first brigade test post!"
+title:  National Civic Hacking Day
 date:   2021-08-29 12:35:38 -0400
-categories: jekyll update
+categories: brigade info
+author: "Hiro"
 ---
 Hey everybody Tuscanny and I have set this bad boy up.
 This is to show that the server is updating in real time.
