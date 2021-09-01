@@ -29,7 +29,7 @@ twitter_username: twitter.com/codefororlando
 github_username:  github.com/cforlando
 
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
 
