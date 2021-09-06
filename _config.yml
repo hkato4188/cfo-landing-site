@@ -29,9 +29,17 @@ twitter_username: twitter.com/codefororlando
 github_username:  github.com/cforlando
 
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
